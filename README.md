@@ -1,5 +1,5 @@
 # machine_learning
-in this code you will find a comparaison between supervised methods:
+in this code you will find a comparison between three supervised methods:
 DecisionTree,
 naive_bayes(MultinomialNB),
 neural_network
